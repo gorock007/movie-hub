@@ -1,3 +1,17 @@
+
+# Movie Hub
+
+This is a simple React.js Application, where you can have access to all the movies you search for. 
+
+React Components, Hooks, State, Events, Pros and JSX are implemented in this Application.
+ 
+## API Reference
+
+Free version of OMDB API is used to obtain all the movie information and images.
+
+https://www.omdbapi.com/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
