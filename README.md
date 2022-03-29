@@ -11,6 +11,10 @@ Free version of OMDB API is used to obtain all the movie information and images.
 
 https://www.omdbapi.com/
 
+## Demo
+
+https://gorock007.github.io/movie-hub/
+
 ## Screenshots
 ![app homepage](/public/moviehub.png)
 
