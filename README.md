@@ -11,6 +11,8 @@ Free version of OMDB API is used to obtain all the movie information and images.
 
 https://www.omdbapi.com/
 
+## Screenshots
+[](moviehub.png)
 
 # Getting Started with Create React App
 
