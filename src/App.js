@@ -19,7 +19,7 @@ const App = () =>{
         setMovies(data.Search);
     }
     useEffect(() =>{
-        searchMovies(searchKeyword);
+        searchMovies('avengers');
     }, []);
     
     return(
